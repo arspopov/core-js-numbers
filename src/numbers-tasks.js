@@ -507,9 +507,7 @@ function roundToSmallestInteger(/* number */) {
  * 5.1  => 6
  * -5.9 => -5
  */
-function roundToLargestInteger(/* number */) {
-  return;
-}
+function roundToLargestInteger(/* number */) {}
 
 /**
  * Returns the value of a number rounded to the nearest integer.
